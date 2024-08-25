@@ -64,6 +64,8 @@ if select == '2':
     print("Github: https://github.com/" + username)
     print(" ")
     print("Поиск в яндексе: ")
-    print("https://yandex.ru/search/?text=" + username)
+    print("https://yandex.ru/search/?text="")
+    if select == '99':
+    print('Для пробива напишите @ImguiDrawViewmm:')
 if select == '6':
     exit()
