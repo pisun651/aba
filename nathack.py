@@ -51,7 +51,7 @@ if select == '1':
     time.sleep(1)
     print('')
 if select == '3':
-    print('Для пробива перейдите в бота:')
+    print('Для пробива напишите @ImguiDrawViewmm:')
     print(mashina.bot)
 if select == '4':
     print(base.base)
